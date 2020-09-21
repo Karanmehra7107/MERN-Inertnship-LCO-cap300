@@ -1,5 +1,7 @@
 # Login and registration with MERN stack
 
+__CAP300__
+
 ![Final App](client/public/mern-auth.gif)
 User Registration and Login functionality with validations using React, NodeJs, ExpressJs and MongoDB and authentication using passport and JWTs.
 
